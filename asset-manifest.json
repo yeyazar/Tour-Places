@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yeyazar/Tour-Places/static/css/main.9f29ba89.css",
+    "main.js": "/yeyazar/Tour-Places/static/js/main.572feb68.js",
+    "static/js/787.a88ad219.chunk.js": "/yeyazar/Tour-Places/static/js/787.a88ad219.chunk.js",
+    "index.html": "/yeyazar/Tour-Places/index.html",
+    "main.9f29ba89.css.map": "/yeyazar/Tour-Places/static/css/main.9f29ba89.css.map",
+    "main.572feb68.js.map": "/yeyazar/Tour-Places/static/js/main.572feb68.js.map",
+    "787.a88ad219.chunk.js.map": "/yeyazar/Tour-Places/static/js/787.a88ad219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f29ba89.css",
+    "static/js/main.572feb68.js"
+  ]
+}
