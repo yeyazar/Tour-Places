@@ -1,0 +1,16 @@
+.header {
+  background-image: linear-gradient(#5cf7f2 0%, #6df586 100%);
+  .title {
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0;
+    font-size: 2rem;
+  }
+
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 0.5rem;
+  }
+}
